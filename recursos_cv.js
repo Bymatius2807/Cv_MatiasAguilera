@@ -5,7 +5,7 @@
 //    Ejemplo de PDF: "./archivos/certificados/cert_react.pdf"
 
 window.CV_RESOURCES = {
-  profileImage: "./archivos/imagenes/Foto de perfil.jpg",
+  profileImage: "./archivos/imagenes/Foto de Perfil Final.jpeg",
   certificates: [
     { name: "Certificado de CSS", url: "./archivos/certificados/Certificado css.pdf", category: "Desarrollo Web" },
     { name: "Certificado de HTML", url: "./archivos/certificados/certificado html.pdf", category: "Desarrollo Web" },
